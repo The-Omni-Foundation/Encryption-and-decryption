@@ -1,6 +1,7 @@
 hi guys im leif and i made this
 
 this can encrypt photos, text, MAYBE audio (havent tested, please let me know if it works or not)
+
 this is pretty RAM heavy depending on the file type and size
 
 to encrypt:
